@@ -1,0 +1,10 @@
+.button-wrapper {
+    padding: 10px;
+    background-color: aqua;
+    width: 50px;
+    margin: 5px;
+}
+
+.active {
+    background-color: white;
+}
